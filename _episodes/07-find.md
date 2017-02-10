@@ -99,7 +99,7 @@ However, one instance of those letters is contained within a larger word,
 "Thesis".
 
 To restrict matches to lines containing the word "The" on its own,
-we can give `grep` with the `-w` flag.
+we can invoke `grep` with the `-w` flag.
 This will limit matches to word boundaries.
 
 ~~~
